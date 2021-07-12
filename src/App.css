@@ -1,0 +1,20 @@
+.App {
+  display: flex;
+  text-align: center;
+}
+
+.listContainer {
+  height: auto;
+  min-width: 200px;
+  background-color: rgb(230, 222, 222);
+  margin: 10px;
+}
+
+.taskContainer {
+  height: auto;
+  min-width: 100px;
+  margin:auto;
+}
+.taskContainer:hover{
+  cursor:pointer;
+}
